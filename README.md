@@ -7,6 +7,7 @@
 
 # TODO
 - [ ] Multimodal image synthesis
+- [ ] Perceptual loss
 - [x] Spade Multiscale Discriminator
 - [x] pix2pixHD loss function (hinge version)
 - [x] feature matching loss
