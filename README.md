@@ -6,11 +6,12 @@
 - `pytorch=1.0.0`
 
 # TODO
-- [ ] Multiscale Discriminator
-- [ ] pix2pixHD loss function
-- [ ] multimodal image synthesis
-- [x] Generator
-- [x] Changes in fastai to create a fastai learner 
+- [ ] Multimodal image synthesis
+- [x] Spade Multiscale Discriminator
+- [x] pix2pixHD loss function (hinge version)
+- [x] feature matching loss
+- [x] Spade Generator
+- [x] GANLearner according to SPADE
 
 # Citation
 
