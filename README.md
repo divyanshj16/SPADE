@@ -8,6 +8,7 @@
 # TODO
 - [ ] Multimodal image synthesis
 - [ ] Perceptual loss
+- [ ] Embedding Space Semantic Maps
 - [x] Spade Multiscale Discriminator
 - [x] pix2pixHD loss function (hinge version)
 - [x] feature matching loss
