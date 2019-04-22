@@ -2,7 +2,7 @@
 "Semantic Image Synthesis with Spatially-Adaptive Normalization Taesung" unofficial paper implementation using fastai library.
 
 # Requirements
-- `fastai=1.0.39` - (Modified a bit)
+- `fastai=1.0.39` 
 - `pytorch=1.0.0`
 
 # TODO
