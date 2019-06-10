@@ -1,5 +1,5 @@
 # SPADE
-"Semantic Image Synthesis with Spatially-Adaptive Normalization Taesung" unofficial paper implementation using fastai library.
+"Semantic Image Synthesis with Spatially-Adaptive Normalization" unofficial paper implementation using fastai library.
 
 # Requirements
 - `fastai=1.0.39` 
